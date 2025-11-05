@@ -1,0 +1,6 @@
+{
+  "name": "polly-servidor",
+  "dependencies": {
+    "@google/generative-ai": "latest"
+  }
+}
